@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "PERKINS"
+  given-names: "Charlie Fynn"
+  orcid: "https://orcid.org/0009-0002-1360-7998"
+- family-names: "TIETEMA"
+  given-names: "Rory"
+title: "Numerical Implementation of Quantum Fisher Information in Julia Using Sunny.jl"
+date-released: 2025-04-30
+url: "https://github.com/Chaddyfynn/QFI-MPhys"
