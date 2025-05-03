@@ -1,0 +1,4 @@
+Domain 1: 15.7237
+Domain 2: 2.430
+Domain 3: 1.20644
+Other or No Domain: 0.1981
